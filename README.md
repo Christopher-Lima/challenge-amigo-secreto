@@ -25,3 +25,5 @@ O **Amigo Secreto** é uma aplicação simples e interativa, onde o usuário org
 
 ### Acessando pelo Page
 Você também pode acessar a página atavés do GitHub Pages
+```bash
+https://christopher-lima.github.io/challenge-amigo-secreto/
